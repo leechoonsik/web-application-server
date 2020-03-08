@@ -25,4 +25,8 @@ public class DataBase {
     public void add() {
     	System.out.println("kkkk");
     }
+    
+    public void add3() {
+    	
+    }
 }
