@@ -42,4 +42,6 @@ public class DataBase {
     public String geta() {
     	return "ABC";
     }
+    
+    // comment1
 }
