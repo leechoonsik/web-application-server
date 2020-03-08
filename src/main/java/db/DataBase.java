@@ -29,4 +29,8 @@ public class DataBase {
     public void add3() {
     	
     }
+    	
+    public void add2(){
+     
+    }
 }
