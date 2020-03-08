@@ -42,4 +42,6 @@ public class DataBase {
     public String geta() {
     	return "ABC";
     }
+    
+    public String a11() { return "aaa"; }
 }
